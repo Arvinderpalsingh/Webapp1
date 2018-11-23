@@ -1,5 +1,9 @@
 <html>
 <body>
+
+<p>
+	<a href="home.jsp" >Home </a>
+</p>	
 <div style="background-color: lime;">
 
 			<div>
